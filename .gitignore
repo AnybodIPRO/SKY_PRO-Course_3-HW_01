@@ -1,0 +1,6 @@
+func_testing.py
+venv/
+.idea/
+__pycache__/
+env/
+.log
